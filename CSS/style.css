@@ -1,0 +1,42 @@
+.body {
+    background-color: lightgreen;
+    margin: auto;
+}
+.container {
+    text-align: center;
+    position: relative;
+    border: 1px solid black;
+}
+.container1 {
+    background-color: powderblue;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    border: 1px solid black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container2 {
+    background-color: cyan;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 240px;
+    left: 440px;
+    border: 1px solid black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container3 {
+    background-color: darkorange;
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    top: 460px;
+    left: 860px;
+    border: 1px solid black;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
